@@ -14,5 +14,7 @@ Setup
 
     Clone the Repository:
     https://github.com/MahmoudBdran/FintechApp.git
-    
+
+for local API Doc : 
+    http://localhost:8080/swagger-ui/index.html    
   
